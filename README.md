@@ -1,22 +1,23 @@
-# Classe_Estática
+# GERENCIAMENTO_FRUTAS_CLI
 
 Esta atividade é requisito da Avaliação Continuada 2
 
 ## 🚀 Começando
 
 
-*Crie uma classe estática chamada ConversorUnidades que deve conter os seguintes métodos:
+*Crie um projeto java de Gerenciamento de Frutas que utilize um exemplo de ArrayList:
 
-*celsiusParaFahrenheit(double celsius): converte uma temperatura em Celsius para Fahrenheit.
+*Para o projeto funcionar, são necessário as funções:
 
-*quilometrosParaMilhas(double quilometros): converte uma distância em quilômetros para milhas.
+*Adicionar
 
-*gramasParaLibras(double gramas): converte uma massa em gramas para libras.
+*Remover
 
-*Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
+*Modificar 
 
+*demonstrar
 
-[Diagrama de Classes do Exercício Acima]
+[Console do Exercício Acima]
 
 (![BibliotecadeConversões](GerenciamentoFrutas.png))
 
