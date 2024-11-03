@@ -9,17 +9,17 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 *Para o projeto funcionar, são necessário as funções:
 
-*Adicionar
+*ADICIONAR
 
-*Remover
+*REMOVER
 
-*Modificar 
+*MODIFICAR 
 
-*demonstrar
+*DEMONSTRAR
 
 [Console do Exercício Acima]
 
-(![BibliotecadeConversões](GerenciamentoFrutas.png))
+(![BibliotecadeConversões](GerenciamentoFrutas2.png))
 
 ### 📋 Pré-requisitos
 
@@ -41,7 +41,10 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 ### 🔧 Instalação
 
-Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Main, onde estarão todas as informações de Input do programa, após colocar as informações que você quer, é só rodar.
+Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Main e execute-o, a partir disso, utilize os números de 1 a 5 para selecionar a opção desejada e siga utilizando os métodos do projeto para se ter um melhor gerenciamento de frutas "cadastradas" no programa.
+
+(![BibliotecadeConversões](GerenciamentoFrutas.png))
+
 
 ## 🛠️ Construído com
 
