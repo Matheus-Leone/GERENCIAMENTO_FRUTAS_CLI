@@ -19,7 +19,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 [Console do Exercício Acima]
 
-(![BibliotecadeConversões](GerenciamentoFrutas2.png))
+(![BibliotecadeConversões](GerenciamentoFrutas.png))
 
 ### 📋 Pré-requisitos
 
@@ -43,7 +43,7 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Main e execute-o, a partir disso, utilize os números de 1 a 5 para selecionar a opção desejada e siga utilizando os métodos do projeto para se ter um melhor gerenciamento de frutas "cadastradas" no programa.
 
-(![BibliotecadeConversões](GerenciamentoFrutas.png))
+(![BibliotecadeConversões](GerenciamentoFrutas2.png))
 
 
 ## 🛠️ Construído com
