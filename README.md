@@ -18,7 +18,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 [Diagrama de Classes do Exercício Acima]
 
-(![BibliotecadeConversões](InterfaceGerenciamentoFrutas.png))
+(![BibliotecadeConversões](GerenciamentoFrutas.png))
 
 ### 📋 Pré-requisitos
 
